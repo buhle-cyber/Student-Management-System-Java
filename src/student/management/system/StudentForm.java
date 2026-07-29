@@ -15,7 +15,7 @@ import java.io.*;
 public class StudentForm extends javax.swing.JFrame {
     
     DefaultTableModel model;
-    private final String FILE_NAME = "sudents.txt";
+    private final String FILE_NAME = "students.txt";
     private Object[] lastDeletedStudent; // Stores the entire row
     private int lastDeletedRow = -1; // Rememebers where the student was in the table
     
