@@ -6,8 +6,25 @@ A desktop application built using **Java Swing** and **NetBeans** that allows us
 
 ##  Application Preview
 
-> Screenshots will be added soon.
+### Main Window
 
+![Main Window](screenshots/main-window.png)
+
+### Add Student
+
+![Add Student](screenshots/add-student.png)
+
+### Search Student
+
+![Search Student](screenshots/search-student.png)
+
+### Validation
+
+![Validation](screenshots/validation.png)
+
+### Undo Delete
+
+![Undo Delete](screenshots/undo.png)
 ---
 
 ##  Features
